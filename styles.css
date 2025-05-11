@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #f0f8ff;
+    background-color: #E6E6FA; /* Lavanda claro como fondo suave */
     color: #4b0082;
     text-align: center;
     display: flex;
